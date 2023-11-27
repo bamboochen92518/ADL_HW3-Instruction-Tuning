@@ -68,6 +68,12 @@ if __name__ == "__main__":
         default="data/new_public_test.json",
         help="Path to test data."
     )
+    parser.add_argument(
+        "--output_path",
+        type=str,
+        default="prediction.json",
+        help="Path to output prediction."
+    )
     args = parser.parse_args()
 
     # Load model
