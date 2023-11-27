@@ -40,7 +40,7 @@ $ python train_addprompt.py
 $ python -m axolotl.cli.train qlora.yml
 ```
 
-所有使用到的參數在`qlora.yml`裡面，其餘請參考https://github.com/OpenAccess-AI-Collective/axolotl/tree/main。
+所有使用到的參數在`qlora.yml`裡面，其餘請參考https://github.com/OpenAccess-AI-Collective/axolotl/tree/main
 
 這步完成之後會產生`adapter_checkpoint `。
 
