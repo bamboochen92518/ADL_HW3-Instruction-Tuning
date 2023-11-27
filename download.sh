@@ -1,3 +1,3 @@
 #!/bin/bash
 
-gdown --folder https://drive.google.com/drive/folders/13Na1eHDAkRjcKWQjn19PJAZaxtQ8zI4q?usp=drive_link
+gdown --folder https://drive.google.com/drive/folders/1DCE4l1hUhywo3EebBo1XwDZCz4B24pVZ?usp=sharing
